@@ -1,8 +1,8 @@
 //課題１
 
 <?php
-$name=taku;
-if($name=taku){
+$name="taku";
+if($name="taku"){
     echo "私はあなたの名前です。";
 }else{
     echo "あなたの名前ではありません";
